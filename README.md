@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 You can reach me at [vritti.gyl@gmail.com](mailto:vritti.gyl@gmail.com)
 - 😄 Pronouns: She/Her
 
-[![Vritti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vrittigyl&show=prs_merged&theme=gotham&hide=stars,ranks&show_icons=true&rank_icon=github)](https://github.com/Vrittigyl/github-readme-stats)
+[![Vritti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vrittigyl&show=prs_merged&theme=gotham&hide=stars,ranks&show_icons=true&rank_icon=github)](https://github.com/Vrittigyl)
